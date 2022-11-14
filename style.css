@@ -1,0 +1,61 @@
+.news-content .section-news li {
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  color: rgb(78, 56, 56);
+}
+a:hover {
+  color: blue;
+}
+
+.news-content .section-news .footer {
+    background-color: white;
+}
+
+.news-content .global-footer {
+  color: darkolivegreen;
+}
+
+.news-content .life-footer {
+  color: firebrick;
+}
+
+.news-content .global-news li:hover a {
+  background-color: chartreuse;
+}
+
+.news-content .lifestyle li:hover a {
+  background-color: cyan;
+}
+
+.news-content li:hover a {
+  color: rgb(210, 95, 66);
+}
+
+.news-content .global-news .footer {
+  color: darkseagreen;
+}
+
+.news-content .lifestyle .footer {
+  color: rgb(131, 162, 190);
+}
+
+
+.news-content .section-news .footer {
+    background-color: white;
+}
+
+
+.news-content h2 {
+  color: white;
+  padding-left: 10px;
+}
+
+.news-content .global-news h2 {
+  background-color: rgb(223, 143, 227);
+}
+
+.news-content .lifestyle h2 {
+  background-color: rgb(77, 218, 143);
+}
